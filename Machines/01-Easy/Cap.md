@@ -108,7 +108,7 @@ cat user.txt
 
 User Flag Captured! The first phase was complete. Now, it was time to find a way to become root.
 
-We can use `LinPeas` to automate the enumeration. But because the name of the machine is `Cap` let's use `getcap` instead which scans the filesystem for binaries that have been granted kernel level privileges that extend beyond standard file permissions.
+We can use `LinPeas` to automate the enumeration. But because the name of the machine is `Cap` let's use `getcap` instead :) which scans the filesystem for binaries that have been granted kernel level privileges that extend beyond standard file permissions.
 
 ```shell
 getcap -r / 2>/dev/null
