@@ -29,7 +29,7 @@ The goal of this repository is simple:
     │   │   │
     │   │   └── Windows/
     │   │       ├── Touch.md
-    │   │       └──...
+    │   │       └── ...
     │   │   
     │   ├── 02-Medium/
     │   ├── 03-Hard/
