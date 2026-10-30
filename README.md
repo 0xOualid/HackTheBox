@@ -23,8 +23,14 @@ The goal of this repository is simple:
     │
     ├── Machines/
     │   ├── 01-Easy/
-    │   │   └── Cap.md
-    │   │   └── ...
+    │   │   └── Linux/
+    │   │   │   ├── Cap.md
+    │   │   │   └── ...
+    │   │   │
+    │   │   └── Windows/
+    │   │       ├── Touch.md
+    │   │       └──...
+    │   │   
     │   ├── 02-Medium/
     │   ├── 03-Hard/
     │   └── 04-Insane/
