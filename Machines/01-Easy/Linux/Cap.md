@@ -7,7 +7,7 @@
 First reconnaissance and port scanning.
 
 ```shell
-nmap -sV -sC -Pn -p- 10.129.112.58
+nmap -sV -sC -Pn -T4 -p- 10.129.112.58
 ```
 
 ```text
