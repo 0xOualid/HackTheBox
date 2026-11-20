@@ -1,10 +1,10 @@
-# SpookyPass Writeup
+# SpookyPass
 
-> Category : Reversing
+All the coolest ghosts in town are going to a Haunted Houseparty - can you prove you deserve to get in?
 
-> All the coolest ghosts in town are going to a Haunted Houseparty - can you prove you deserve to get in?
+---
 
-## Solution
+## Notes
 
 ```shell
 wget -O spooky "https://labs.hackthebox.com/api/v4/challenge/download/806?auth_user_id=3179731&expires=1788531902&signature=24749d975d12713ae3ee018fdafb8ec2a42fe50d713d9f54514cbc51c9ec0d82"

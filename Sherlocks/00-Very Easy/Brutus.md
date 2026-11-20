@@ -1,10 +1,10 @@
-# Brutus Writeup
+## Brutus
 
-> Category : DFIR
+In this Sherlock, you will familiarize yourself with Unix auth.log and wtmp logs. We'll explore a scenario where a Confluence server was brute-forced via its SSH service. After gaining access to the server, the attacker performed additional activities, which we can track using auth.log. Although auth.log is primarily used for brute-force analysis, we will delve into the full potential of this artifact in our investigation, including aspects of privilege escalation, persistence, and even some visibility into command execution.
 
-> In this Sherlock, you will familiarize yourself with Unix auth.log and wtmp logs. We'll explore a scenario where a Confluence server was brute-forced via its SSH service. After gaining access to the server, the attacker performed additional activities, which we can track using auth.log. Although auth.log is primarily used for brute-force analysis, we will delve into the full potential of this artifact in our investigation, including aspects of privilege escalation, persistence, and even some visibility into command execution.
+---
 
-## Solution
+## Notes
 
 ```shell
 wget -O brutus "https://labs.hackthebox.com/api/v4/challenges/631/cdn/redirect?auth_user_id=3179731&expires=1788553396&signature=e81bd01e48009543c7ad5231376d7738cc75c8fb08ee8c2d5258763ecf4bb43e"

@@ -1,18 +1,18 @@
-# The Puppet Master Writeup
+## The Puppet Master
 
-> Category : OSINT
+Trainee,
+ 
+Our investigation into the cryptocurrency funding trail has led us to RivalTech Corporation. A recent data breach at their corporate servers has exposed internal communications, employee records, and strategic planning documents.
 
-> Trainee,
-> 
-> Our investigation into the cryptocurrency funding trail has led us to RivalTech Corporation. A recent data breach at their corporate servers has exposed internal communications, employee records, and strategic planning documents.
-> 
-> Your mission is to navigate the BreachScope database and identify the senior executive who orchestrated the comprehensive fake review campaign against XyloPhone Inc. Look for evidence of direct approval, budget authorization, and campaign coordination.
-> 
-> Submit your findings in the format: HTB{executive_identification}. Example: HTB{CEO_Thomas_Wilson_Approved_Budget}
-> 
-> – Training Division Digital Forensics Unit
+Your mission is to navigate the BreachScope database and identify the senior executive who orchestrated the comprehensive fake review campaign against XyloPhone Inc. Look for evidence of direct approval, budget authorization, and campaign coordination.
 
-## Solution
+Submit your findings in the format: HTB{executive_identification}. Example: HTB{CEO_Thomas_Wilson_Approved_Budget}
+
+– Training Division Digital Forensics Unit
+
+---
+
+## Notes
 
 Upon visiting the link http://154.57.164.66:32115 to view the challenge, we found an image of an armored military vehicle in the "Evidence Analysis" section.
 The "Investigation Challenge" section also includes a few questions about this vehicle that we need to answer.
