@@ -1,6 +1,6 @@
-# HackTheBox Writeups
+# HackTheBox Personal Notes
 
-Welcome to my HackTheBox writeups repository.
+Welcome to my HackTheBox Notes repository.
 
 This repository contains my personal notes, solutions, methodologies, and learning journey while solving machines, challenges, and Sherlocks on HackTheBox.
 
@@ -12,7 +12,7 @@ The goal of this repository is simple:
 - Document useful commands, techniques, and methodologies
 - Build a consistent cybersecurity learning habit
 
-> These writeups are mainly written for myself, so explanations are kept simple, practical, and focused on what I learn from each machine, challenge, or investigation.
+> These notes are mainly written for myself, so explanations are kept simple, practical, and focused on what I learn from each machine, challenge, or investigation.
 
 ---
 
@@ -50,7 +50,7 @@ HTB machines are organized according to their difficulty:
 - Hard
 - Insane
 
-Machine writeups may include:
+Machine notes may include:
 
 - Reconnaissance
 - Enumeration
@@ -72,7 +72,7 @@ HackTheBox challenges are organized according to their difficulty:
 - Hard
 - Insane
 
-Challenge writeups may cover areas such as:
+Challenge notes may cover areas such as:
 
 - AI/ML
 - Blockchain
@@ -104,7 +104,7 @@ HTB sherlocks are organized according to their difficulty:
 
 Sherlocks are investigation-based challenges focused on defensive security, digital forensics, incident response, and analyzing security incidents.
 
-Sherlock writeups may include:
+Sherlock notes may include:
 
 - Incident investigation
 - Log analysis
@@ -171,7 +171,7 @@ This repository will grow as I continue solving HackTheBox machines, challenges,
 
 The purpose of this repository is not only to collect solutions, but also to document the process and understand why each technique works.
 
-Each writeup represents another opportunity to improve my methodology, technical knowledge, and problem-solving skills.
+Each notes represents another opportunity to improve my methodology, technical knowledge, and problem-solving skills.
 
 ---
 
@@ -179,7 +179,7 @@ Each writeup represents another opportunity to improve my methodology, technical
 
 All content in this repository is for educational purposes only.
 
-These writeups are based on legal cybersecurity training environments and challenges provided by HackTheBox.
+These notes are based on legal cybersecurity training environments and challenges provided by HackTheBox.
 
 Do not use the techniques, commands, scripts, exploits, or information documented in this repository against systems that you do not own or have explicit permission to test.
 
