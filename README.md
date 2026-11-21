@@ -1,6 +1,6 @@
 # HackTheBox Personal Notes
 
-Welcome to my HackTheBox Notes repository.
+Welcome to my HackTheBox repository.
 
 This repository contains my personal notes, solutions, methodologies, and learning journey while solving machines, challenges, and Sherlocks on HackTheBox.
 
