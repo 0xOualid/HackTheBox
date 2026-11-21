@@ -4,7 +4,7 @@ Cap is an easy difficulty Linux machine running an HTTP server that performs adm
 
 ---
 
-## Solution
+## Notes
 
 First reconnaissance and port scanning.
 
